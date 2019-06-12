@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KanyeQuest</string>
+    <string name="trivia_Title">Who Said It First?</string>
+    <string name="trump_button">Trump</string>
+    <string name="kanye_button">Kanye</string>
+    <string name="swanson_button">Swanson</string>
+</resources>
